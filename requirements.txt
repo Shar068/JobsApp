@@ -1,0 +1,10 @@
+# At start - npx create-expo-app@latest --example with-router
+
+# npm install expo-font axios react-native-dotenv
+
+#npm start
+
+#use Expo Go to start app on mobile
+
+#alternate way to start app on mobile - npm install -g expo-cli
+#once the above package installs, run - expo-cli start --tunnel
